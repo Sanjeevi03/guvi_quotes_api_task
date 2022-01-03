@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400&family=Rubik:wght@300&display=swap');
+body{
+    background-color: rgb(251, 253, 251);
+}
+/* font-family: 'Roboto Slab', serif;
+font-family: 'Rubik', sans-serif; */
+
+
+.quote:nth-child(odd){
+    background-color: rgb(241, 244, 246);
+}
+.author{
+    font-family: 'Rubik', sans-serif; 
+}
+.text{
+    font-family: 'Roboto Slab', serif;
+}
